@@ -22,3 +22,12 @@ body {
     margin-right: 5px;
     margin-bottom: 10px;
 }
+
+.border-bottom-grey {
+    border-bottom: 1px solid rgba(230, 230, 230, 1);
+}
+
+.bookmark-props {
+    float: right;
+    color: black;
+}

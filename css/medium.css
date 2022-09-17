@@ -1,0 +1,24 @@
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+.bg-yellow {
+    background: #FFC017;
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid black;
+}
+
+.navbar-sag ul li {
+    margin-right: 10px;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.aside-buttons button {
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
